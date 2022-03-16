@@ -10,3 +10,11 @@ You wanna learn coding, right? Then come here!
 Mainly upload C++ and Python.
 
 主要上传C++和Python。
+
+Uploads programs of school.
+
+上传学校所教程序。
+
+Let's learning coding together!
+
+让我们在编程的海洋中遨游吧！
