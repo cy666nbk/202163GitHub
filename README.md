@@ -11,7 +11,7 @@ Mainly upload C++ and Python.
 
 主要上传C++和Python。
 
-Uploads programs of school.
+Uploads programmes of school.
 
 上传学校所教程序。
 
